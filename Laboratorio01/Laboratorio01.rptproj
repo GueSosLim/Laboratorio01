@@ -38,6 +38,30 @@
       <FullPath>4.4.1.RestricciónyOrdenamiento.rdl</FullPath>
     </ProjectItem>
     <ProjectItem>
+      <Name>4.4.10.RestricciónyOrdenamiento.rdl</Name>
+      <FullPath>4.4.10.RestricciónyOrdenamiento.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>4.4.11.RestricciónyOrdenamiento.rdl</Name>
+      <FullPath>4.4.11.RestricciónyOrdenamiento.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>4.4.12.RestricciónyOrdenamiento.rdl</Name>
+      <FullPath>4.4.12.RestricciónyOrdenamiento.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>4.4.13.RestricciónyOrdenamiento.rdl</Name>
+      <FullPath>4.4.13.RestricciónyOrdenamiento.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>4.4.14.RestricciónyOrdenamiento.rdl</Name>
+      <FullPath>4.4.14.RestricciónyOrdenamiento.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>4.4.15.RestricciónyOrdenamiento.rdl</Name>
+      <FullPath>4.4.15.RestricciónyOrdenamiento.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
       <Name>4.4.2.RestricciónyOrdenamiento.rdl</Name>
       <FullPath>4.4.2.RestricciónyOrdenamiento.rdl</FullPath>
     </ProjectItem>
@@ -70,28 +94,8 @@
       <FullPath>4.4.9.RestricciónyOrdenamiento.rdl</FullPath>
     </ProjectItem>
     <ProjectItem>
-      <Name>4.4.10.RestricciónyOrdenamiento.rdl</Name>
-      <FullPath>4.4.10.RestricciónyOrdenamiento.rdl</FullPath>
-    </ProjectItem>
-    <ProjectItem>
-      <Name>4.4.11.RestricciónyOrdenamiento.rdl</Name>
-      <FullPath>4.4.11.RestricciónyOrdenamiento.rdl</FullPath>
-    </ProjectItem>
-    <ProjectItem>
-      <Name>4.4.12.RestricciónyOrdenamiento.rdl</Name>
-      <FullPath>4.4.12.RestricciónyOrdenamiento.rdl</FullPath>
-    </ProjectItem>
-    <ProjectItem>
-      <Name>4.4.13.RestricciónyOrdenamiento.rdl</Name>
-      <FullPath>4.4.13.RestricciónyOrdenamiento.rdl</FullPath>
-    </ProjectItem>
-    <ProjectItem>
-      <Name>4.4.14.RestricciónyOrdenamiento.rdl</Name>
-      <FullPath>4.4.14.RestricciónyOrdenamiento.rdl</FullPath>
-    </ProjectItem>
-    <ProjectItem>
-      <Name>4.4.15.RestricciónyOrdenamiento.rdl</Name>
-      <FullPath>4.4.15.RestricciónyOrdenamiento.rdl</FullPath>
+      <Name>4.1.1.Revision de Sintaxis.rdl</Name>
+      <FullPath>4.1.1.Revision de Sintaxis.rdl</FullPath>
     </ProjectItem>
   </Reports>
   <Configurations>
