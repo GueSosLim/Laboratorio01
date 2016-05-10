@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="HumanResource">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=.\mssqlserver16;Initial Catalog=DB_HumanResource</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>4e3ffcb1-a99e-491a-a3b3-53dbf3c35c9b</DataSourceID>
+</RptDataSource>
