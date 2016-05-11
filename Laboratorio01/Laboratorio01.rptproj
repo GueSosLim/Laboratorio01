@@ -149,6 +149,30 @@
       <Name>4.6.6.FuncionesDeConversion_Case.rdl</Name>
       <FullPath>4.6.6.FuncionesDeConversion_Case.rdl</FullPath>
     </ProjectItem>
+    <ProjectItem>
+      <Name>4.7.1.FuncionesDeAgrupacion.rdl</Name>
+      <FullPath>4.7.1.FuncionesDeAgrupacion.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>4.7.2.FuncionesDeAgrupacion.rdl</Name>
+      <FullPath>4.7.2.FuncionesDeAgrupacion.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>4.7.4.FuncionesDeAgrupacion.rdl</Name>
+      <FullPath>4.7.4.FuncionesDeAgrupacion.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>4.7.5.FuncionesDeAgrupacion.rdl</Name>
+      <FullPath>4.7.5.FuncionesDeAgrupacion.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>4.7.6.FuncionesDeAgrupacion.rdl</Name>
+      <FullPath>4.7.6.FuncionesDeAgrupacion.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>4.7.7.FuncionesDeAgrupacion.rdl</Name>
+      <FullPath>4.7.7.FuncionesDeAgrupacion.rdl</FullPath>
+    </ProjectItem>
   </Reports>
   <Configurations>
     <Configuration>
