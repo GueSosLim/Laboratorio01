@@ -125,6 +125,10 @@
       <Name>4.5.8.Funciones_concat_substring_left_replicate.rdl</Name>
       <FullPath>4.5.8.Funciones_concat_substring_left_replicate.rdl</FullPath>
     </ProjectItem>
+    <ProjectItem>
+      <Name>4.1.2.Revision de Sintaxis.rdl</Name>
+      <FullPath>4.1.2.Revision de Sintaxis.rdl</FullPath>
+    </ProjectItem>
   </Reports>
   <Configurations>
     <Configuration>
