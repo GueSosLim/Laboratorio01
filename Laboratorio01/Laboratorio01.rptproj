@@ -133,6 +133,22 @@
       <Name>4.1.3.Revision de Sintaxis.rdl</Name>
       <FullPath>4.1.3.Revision de Sintaxis.rdl</FullPath>
     </ProjectItem>
+    <ProjectItem>
+      <Name>4.6.1.FuncionesDeConversion_Convert.rdl</Name>
+      <FullPath>4.6.1.FuncionesDeConversion_Convert.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>4.6.4.FuncionesDeConversion_isnull_format.rdl</Name>
+      <FullPath>4.6.4.FuncionesDeConversion_isnull_format.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>4.6.5.FuncionesDeConversion_EquivalentDecode.rdl</Name>
+      <FullPath>4.6.5.FuncionesDeConversion_EquivalentDecode.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>4.6.6.FuncionesDeConversion_Case.rdl</Name>
+      <FullPath>4.6.6.FuncionesDeConversion_Case.rdl</FullPath>
+    </ProjectItem>
   </Reports>
   <Configurations>
     <Configuration>
