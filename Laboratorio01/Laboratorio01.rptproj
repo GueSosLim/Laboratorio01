@@ -10,6 +10,10 @@
   <DataSets />
   <Reports>
     <ProjectItem>
+      <Name>4.1.1.Revision de Sintaxis.rdl</Name>
+      <FullPath>4.1.1.Revision de Sintaxis.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
       <Name>4.2.1.ReconociendoEstructura.rdl</Name>
       <FullPath>4.2.1.ReconociendoEstructura.rdl</FullPath>
     </ProjectItem>
@@ -94,8 +98,20 @@
       <FullPath>4.4.9.RestricciónyOrdenamiento.rdl</FullPath>
     </ProjectItem>
     <ProjectItem>
-      <Name>4.1.1.Revision de Sintaxis.rdl</Name>
-      <FullPath>4.1.1.Revision de Sintaxis.rdl</FullPath>
+      <Name>4.5.1.Funciones_HoraDelSistema.rdl</Name>
+      <FullPath>4.5.1.Funciones_HoraDelSistema.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>4.5.2.Funciones_RedondearEntero.rdl</Name>
+      <FullPath>4.5.2.Funciones_RedondearEntero.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>4.5.3.Funciones_Redondear.rdl</Name>
+      <FullPath>4.5.3.Funciones_Redondear.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>4.5.4.Funciones_Concat_Upper_Lower_Len_Like.rdl</Name>
+      <FullPath>4.5.4.Funciones_Concat_Upper_Lower_Len_Like.rdl</FullPath>
     </ProjectItem>
   </Reports>
   <Configurations>
