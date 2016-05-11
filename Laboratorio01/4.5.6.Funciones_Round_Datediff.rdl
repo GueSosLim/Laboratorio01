@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Report xmlns="http://schemas.microsoft.com/sqlserver/reporting/2016/01/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner" xmlns:df="http://schemas.microsoft.com/sqlserver/reporting/2016/01/reportdefinition/defaultfontfamily" MustUnderstand="df">
+<Report MustUnderstand="df" xmlns="http://schemas.microsoft.com/sqlserver/reporting/2016/01/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner" xmlns:df="http://schemas.microsoft.com/sqlserver/reporting/2016/01/reportdefinition/defaultfontfamily">
   <df:DefaultFontFamily>Segoe UI</df:DefaultFontFamily>
   <AutoRefresh>0</AutoRefresh>
   <DataSources>
@@ -43,9 +43,10 @@ ORDER BY ROUND(DATEDIFF(mm, hire_date,getdate()),0) asc;</CommandText>
                   <TextRun>
                     <Value>4.5.6.Funciones_Round_Datediff</Value>
                     <Style>
-                      <FontFamily>Segoe UI Light</FontFamily>
-                      <FontSize>24pt</FontSize>
+                      <FontFamily>Tahoma</FontFamily>
+                      <FontSize>20pt</FontSize>
                       <FontWeight>Bold</FontWeight>
+                      <Color>DodgerBlue</Color>
                     </Style>
                   </TextRun>
                 </TextRuns>
@@ -54,7 +55,11 @@ ORDER BY ROUND(DATEDIFF(mm, hire_date,getdate()),0) asc;</CommandText>
             </Paragraphs>
             <rd:DefaultName>textbox1</rd:DefaultName>
             <Height>0.43in</Height>
+            <Width>5in</Width>
             <Style>
+              <Border>
+                <Style>None</Style>
+              </Border>
               <PaddingLeft>2pt</PaddingLeft>
               <PaddingRight>2pt</PaddingRight>
               <PaddingTop>2pt</PaddingTop>
@@ -97,8 +102,6 @@ ORDER BY ROUND(DATEDIFF(mm, hire_date,getdate()),0) asc;</CommandText>
                             </Paragraph>
                           </Paragraphs>
                           <rd:DefaultName>textbox2</rd:DefaultName>
-                          <Height>0.22in</Height>
-                          <Width>1in</Width>
                           <Style>
                             <Border>
                               <Color>LightGrey</Color>
@@ -140,8 +143,6 @@ ORDER BY ROUND(DATEDIFF(mm, hire_date,getdate()),0) asc;</CommandText>
                             </Paragraph>
                           </Paragraphs>
                           <rd:DefaultName>textbox3</rd:DefaultName>
-                          <Height>0.22in</Height>
-                          <Width>1in</Width>
                           <Style>
                             <Border>
                               <Color>LightGrey</Color>
@@ -183,8 +184,6 @@ ORDER BY ROUND(DATEDIFF(mm, hire_date,getdate()),0) asc;</CommandText>
                             </Paragraph>
                           </Paragraphs>
                           <rd:DefaultName>Apellido</rd:DefaultName>
-                          <Height>0.21in</Height>
-                          <Width>1in</Width>
                           <Style>
                             <Border>
                               <Color>LightGrey</Color>
@@ -221,8 +220,6 @@ ORDER BY ROUND(DATEDIFF(mm, hire_date,getdate()),0) asc;</CommandText>
                             </Paragraph>
                           </Paragraphs>
                           <rd:DefaultName>Meses_Trabajados</rd:DefaultName>
-                          <Height>0.21in</Height>
-                          <Width>1in</Width>
                           <Style>
                             <Border>
                               <Color>LightGrey</Color>
@@ -271,6 +268,9 @@ ORDER BY ROUND(DATEDIFF(mm, hire_date,getdate()),0) asc;</CommandText>
             </TablixRowHierarchy>
             <DataSetName>DataSet1</DataSetName>
             <Top>0.43in</Top>
+            <Height>0.43in</Height>
+            <Width>2in</Width>
+            <ZIndex>1</ZIndex>
             <Style />
           </Tablix>
         </ReportItems>
@@ -295,6 +295,6 @@ ORDER BY ROUND(DATEDIFF(mm, hire_date,getdate()),0) asc;</CommandText>
   </ReportParametersLayout>
   <Language>es-ES</Language>
   <ConsumeContainerWhitespace>true</ConsumeContainerWhitespace>
-  <rd:ReportUnitType>Invalid</rd:ReportUnitType>
+  <rd:ReportUnitType>Inch</rd:ReportUnitType>
   <rd:ReportID>8524b7d5-65a7-474f-99e1-2e432ec5e200</rd:ReportID>
 </Report>
