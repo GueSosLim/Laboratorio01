@@ -217,6 +217,10 @@
       <Name>4.10.3.Conjuntos.rdl</Name>
       <FullPath>4.10.3.Conjuntos.rdl</FullPath>
     </ProjectItem>
+    <ProjectItem>
+      <Name>4.8.6.Enlaces.rdl</Name>
+      <FullPath>4.8.6.Enlaces.rdl</FullPath>
+    </ProjectItem>
   </Reports>
   <Configurations>
     <Configuration>
