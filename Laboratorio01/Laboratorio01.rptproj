@@ -125,6 +125,26 @@
       <Name>4.2.1.Reconociendo la Estructura.rdl</Name>
       <FullPath>4.2.1.Reconociendo la Estructura.rdl</FullPath>
     </ProjectItem>
+    <ProjectItem>
+      <Name>4.2.2.Reconociendo la Estructura.rdl</Name>
+      <FullPath>4.2.2.Reconociendo la Estructura.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>4.2.3.Reconociendo la Estructura.rdl</Name>
+      <FullPath>4.2.3.Reconociendo la Estructura.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>4.3.1.ConsultasBásicas.rdl</Name>
+      <FullPath>4.3.1.ConsultasBásicas.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>4.3.2.ConsultasBásicas.rdl</Name>
+      <FullPath>4.3.2.ConsultasBásicas.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>4.3.3.ConsultasBásicas.rdl</Name>
+      <FullPath>4.3.3.ConsultasBásicas.rdl</FullPath>
+    </ProjectItem>
   </Reports>
   <Configurations>
     <Configuration>
