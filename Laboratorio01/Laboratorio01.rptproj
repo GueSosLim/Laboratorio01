@@ -22,6 +22,86 @@
       <FullPath>4.1.3.Revision de Sintaxis.rdl</FullPath>
     </ProjectItem>
     <ProjectItem>
+      <Name>4.2.1.Reconociendo la Estructura.rdl</Name>
+      <FullPath>4.2.1.Reconociendo la Estructura.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>4.2.2.Reconociendo la Estructura.rdl</Name>
+      <FullPath>4.2.2.Reconociendo la Estructura.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>4.2.3.Reconociendo la Estructura.rdl</Name>
+      <FullPath>4.2.3.Reconociendo la Estructura.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>4.3.1.ConsultasBásicas.rdl</Name>
+      <FullPath>4.3.1.ConsultasBásicas.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>4.3.2.ConsultasBásicas.rdl</Name>
+      <FullPath>4.3.2.ConsultasBásicas.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>4.3.3.ConsultasBásicas.rdl</Name>
+      <FullPath>4.3.3.ConsultasBásicas.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>4.4.1.Restricción y Ordenamiento.rdl</Name>
+      <FullPath>4.4.1.Restricción y Ordenamiento.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>4.4.10.Restricción y Ordenamiento.rdl</Name>
+      <FullPath>4.4.10.Restricción y Ordenamiento.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>4.4.11.Restricción y Ordenamiento.rdl</Name>
+      <FullPath>4.4.11.Restricción y Ordenamiento.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>4.4.12.Restricción y Ordenamiento.rdl</Name>
+      <FullPath>4.4.12.Restricción y Ordenamiento.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>4.4.13.Restricción y Ordenamiento.rdl</Name>
+      <FullPath>4.4.13.Restricción y Ordenamiento.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>4.4.14.Restricción y Ordenamiento.rdl</Name>
+      <FullPath>4.4.14.Restricción y Ordenamiento.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>4.4.2.Restricción y Ordenamiento.rdl</Name>
+      <FullPath>4.4.2.Restricción y Ordenamiento.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>4.4.3.Restricción y Ordenamiento.rdl</Name>
+      <FullPath>4.4.3.Restricción y Ordenamiento.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>4.4.4.Restricción y Ordenamiento.rdl</Name>
+      <FullPath>4.4.4.Restricción y Ordenamiento.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>4.4.5.Restricción y Ordenamiento.rdl</Name>
+      <FullPath>4.4.5.Restricción y Ordenamiento.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>4.4.6.Restricción y Ordenamiento.rdl</Name>
+      <FullPath>4.4.6.Restricción y Ordenamiento.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>4.4.7.Restricción y Ordenamiento.rdl</Name>
+      <FullPath>4.4.7.Restricción y Ordenamiento.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>4.4.8.Restricción y Ordenamiento.rdl</Name>
+      <FullPath>4.4.8.Restricción y Ordenamiento.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>4.4.9.Restricción y Ordenamiento.rdl</Name>
+      <FullPath>4.4.9.Restricción y Ordenamiento.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
       <Name>4.5.1.Funciones_HoraDelSistema.rdl</Name>
       <FullPath>4.5.1.Funciones_HoraDelSistema.rdl</FullPath>
     </ProjectItem>
@@ -122,84 +202,20 @@
       <FullPath>4.9.7.Subconsultas.rdl</FullPath>
     </ProjectItem>
     <ProjectItem>
-      <Name>4.2.1.Reconociendo la Estructura.rdl</Name>
-      <FullPath>4.2.1.Reconociendo la Estructura.rdl</FullPath>
+      <Name>4.8.6.Subconsultas.rdl</Name>
+      <FullPath>4.8.6.Subconsultas.rdl</FullPath>
     </ProjectItem>
     <ProjectItem>
-      <Name>4.2.2.Reconociendo la Estructura.rdl</Name>
-      <FullPath>4.2.2.Reconociendo la Estructura.rdl</FullPath>
+      <Name>4.10.1.Conjuntos.rdl</Name>
+      <FullPath>4.10.1.Conjuntos.rdl</FullPath>
     </ProjectItem>
     <ProjectItem>
-      <Name>4.2.3.Reconociendo la Estructura.rdl</Name>
-      <FullPath>4.2.3.Reconociendo la Estructura.rdl</FullPath>
+      <Name>4.10.2.Conjuntos.rdl</Name>
+      <FullPath>4.10.2.Conjuntos.rdl</FullPath>
     </ProjectItem>
     <ProjectItem>
-      <Name>4.3.1.ConsultasBásicas.rdl</Name>
-      <FullPath>4.3.1.ConsultasBásicas.rdl</FullPath>
-    </ProjectItem>
-    <ProjectItem>
-      <Name>4.3.2.ConsultasBásicas.rdl</Name>
-      <FullPath>4.3.2.ConsultasBásicas.rdl</FullPath>
-    </ProjectItem>
-    <ProjectItem>
-      <Name>4.3.3.ConsultasBásicas.rdl</Name>
-      <FullPath>4.3.3.ConsultasBásicas.rdl</FullPath>
-    </ProjectItem>
-    <ProjectItem>
-      <Name>4.4.1.Restricción y Ordenamiento.rdl</Name>
-      <FullPath>4.4.1.Restricción y Ordenamiento.rdl</FullPath>
-    </ProjectItem>
-    <ProjectItem>
-      <Name>4.4.2.Restricción y Ordenamiento.rdl</Name>
-      <FullPath>4.4.2.Restricción y Ordenamiento.rdl</FullPath>
-    </ProjectItem>
-    <ProjectItem>
-      <Name>4.4.3.Restricción y Ordenamiento.rdl</Name>
-      <FullPath>4.4.3.Restricción y Ordenamiento.rdl</FullPath>
-    </ProjectItem>
-    <ProjectItem>
-      <Name>4.4.4.Restricción y Ordenamiento.rdl</Name>
-      <FullPath>4.4.4.Restricción y Ordenamiento.rdl</FullPath>
-    </ProjectItem>
-    <ProjectItem>
-      <Name>4.4.5.Restricción y Ordenamiento.rdl</Name>
-      <FullPath>4.4.5.Restricción y Ordenamiento.rdl</FullPath>
-    </ProjectItem>
-    <ProjectItem>
-      <Name>4.4.6.Restricción y Ordenamiento.rdl</Name>
-      <FullPath>4.4.6.Restricción y Ordenamiento.rdl</FullPath>
-    </ProjectItem>
-    <ProjectItem>
-      <Name>4.4.7.Restricción y Ordenamiento.rdl</Name>
-      <FullPath>4.4.7.Restricción y Ordenamiento.rdl</FullPath>
-    </ProjectItem>
-    <ProjectItem>
-      <Name>4.4.8.Restricción y Ordenamiento.rdl</Name>
-      <FullPath>4.4.8.Restricción y Ordenamiento.rdl</FullPath>
-    </ProjectItem>
-    <ProjectItem>
-      <Name>4.4.9.Restricción y Ordenamiento.rdl</Name>
-      <FullPath>4.4.9.Restricción y Ordenamiento.rdl</FullPath>
-    </ProjectItem>
-    <ProjectItem>
-      <Name>4.4.10.Restricción y Ordenamiento.rdl</Name>
-      <FullPath>4.4.10.Restricción y Ordenamiento.rdl</FullPath>
-    </ProjectItem>
-    <ProjectItem>
-      <Name>4.4.11.Restricción y Ordenamiento.rdl</Name>
-      <FullPath>4.4.11.Restricción y Ordenamiento.rdl</FullPath>
-    </ProjectItem>
-    <ProjectItem>
-      <Name>4.4.12.Restricción y Ordenamiento.rdl</Name>
-      <FullPath>4.4.12.Restricción y Ordenamiento.rdl</FullPath>
-    </ProjectItem>
-    <ProjectItem>
-      <Name>4.4.13.Restricción y Ordenamiento.rdl</Name>
-      <FullPath>4.4.13.Restricción y Ordenamiento.rdl</FullPath>
-    </ProjectItem>
-    <ProjectItem>
-      <Name>4.4.14.Restricción y Ordenamiento.rdl</Name>
-      <FullPath>4.4.14.Restricción y Ordenamiento.rdl</FullPath>
+      <Name>4.10.3.Conjuntos.rdl</Name>
+      <FullPath>4.10.3.Conjuntos.rdl</FullPath>
     </ProjectItem>
   </Reports>
   <Configurations>
