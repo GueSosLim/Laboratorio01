@@ -121,6 +121,10 @@
       <Name>4.9.7.Subconsultas.rdl</Name>
       <FullPath>4.9.7.Subconsultas.rdl</FullPath>
     </ProjectItem>
+    <ProjectItem>
+      <Name>4.2.1.Reconociendo la Estructura.rdl</Name>
+      <FullPath>4.2.1.Reconociendo la Estructura.rdl</FullPath>
+    </ProjectItem>
   </Reports>
   <Configurations>
     <Configuration>
