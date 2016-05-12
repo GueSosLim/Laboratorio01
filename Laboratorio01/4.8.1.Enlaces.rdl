@@ -84,16 +84,16 @@ INNER JOIN countries AS cou ON cou.country_id = loc.country_id;</CommandText>
                   <Width>1in</Width>
                 </TablixColumn>
                 <TablixColumn>
-                  <Width>1in</Width>
+                  <Width>3.35417in</Width>
                 </TablixColumn>
                 <TablixColumn>
-                  <Width>1in</Width>
+                  <Width>2.09375in</Width>
                 </TablixColumn>
                 <TablixColumn>
-                  <Width>1in</Width>
+                  <Width>1.64583in</Width>
                 </TablixColumn>
                 <TablixColumn>
-                  <Width>1in</Width>
+                  <Width>2.25in</Width>
                 </TablixColumn>
               </TablixColumns>
               <TablixRows>
@@ -483,7 +483,7 @@ INNER JOIN countries AS cou ON cou.country_id = loc.country_id;</CommandText>
             <DataSetName>DataSet1</DataSetName>
             <Top>0.33in</Top>
             <Height>0.43in</Height>
-            <Width>5in</Width>
+            <Width>10.34375in</Width>
             <ZIndex>1</ZIndex>
             <Style />
           </Tablix>
@@ -491,7 +491,7 @@ INNER JOIN countries AS cou ON cou.country_id = loc.country_id;</CommandText>
         <Height>0.76in</Height>
         <Style />
       </Body>
-      <Width>5in</Width>
+      <Width>10.34375in</Width>
       <Page>
         <LeftMargin>1in</LeftMargin>
         <RightMargin>1in</RightMargin>

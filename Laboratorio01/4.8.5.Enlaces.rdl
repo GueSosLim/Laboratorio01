@@ -79,13 +79,13 @@ LEFT JOIN employees AS man ON man.employee_id = emp.manager_id;</CommandText>
                   <Width>1in</Width>
                 </TablixColumn>
                 <TablixColumn>
-                  <Width>1in</Width>
+                  <Width>1.58333in</Width>
                 </TablixColumn>
                 <TablixColumn>
-                  <Width>1in</Width>
+                  <Width>2.04167in</Width>
                 </TablixColumn>
                 <TablixColumn>
-                  <Width>1in</Width>
+                  <Width>2.77083in</Width>
                 </TablixColumn>
               </TablixColumns>
               <TablixRows>
@@ -408,7 +408,7 @@ LEFT JOIN employees AS man ON man.employee_id = emp.manager_id;</CommandText>
             <DataSetName>DataSet1</DataSetName>
             <Top>0.33in</Top>
             <Height>0.43in</Height>
-            <Width>4in</Width>
+            <Width>7.39583in</Width>
             <ZIndex>1</ZIndex>
             <Style />
           </Tablix>
@@ -416,7 +416,7 @@ LEFT JOIN employees AS man ON man.employee_id = emp.manager_id;</CommandText>
         <Height>0.76in</Height>
         <Style />
       </Body>
-      <Width>5in</Width>
+      <Width>7.39583in</Width>
       <Page>
         <LeftMargin>1in</LeftMargin>
         <RightMargin>1in</RightMargin>

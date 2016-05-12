@@ -74,10 +74,10 @@ INNER JOIN departments AS dep ON dep.department_id = emp.department_id;</Command
                   <Width>1in</Width>
                 </TablixColumn>
                 <TablixColumn>
-                  <Width>1in</Width>
+                  <Width>1.80208in</Width>
                 </TablixColumn>
                 <TablixColumn>
-                  <Width>1in</Width>
+                  <Width>1.44792in</Width>
                 </TablixColumn>
               </TablixColumns>
               <TablixRows>
@@ -329,7 +329,7 @@ INNER JOIN departments AS dep ON dep.department_id = emp.department_id;</Command
             <DataSetName>DataSet1</DataSetName>
             <Top>0.33in</Top>
             <Height>0.43in</Height>
-            <Width>3in</Width>
+            <Width>4.25in</Width>
             <ZIndex>1</ZIndex>
             <Style />
           </Tablix>
